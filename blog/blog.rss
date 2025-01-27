@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Garden's attempt at a blog</title>
+  <link>https://system.grdnsys.no/blog</link>
+  <description>Some sort of attempt at a blog that may or may not be used much.</description>
+  <item>
+    <title>📖 The problem of seeing headmates</title>
+    <link>https://system.grdnsys.no/blog/2025-01-27.html</link>
+    <description>A rant about plurality acceptance</description>
+  </item>
+</channel>
+</rss> 
