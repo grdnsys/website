@@ -1,5 +1,15 @@
-/people/nina    /people/mel
-/people/nina.html    /people/mel
+# Blog post redirects
 /blog/:date    /posts/:date
 /blog/role-labels    /blog/2025-04-10
 /blog/seeing-headmates    /blog/2025-01-27
+
+
+# Nina - Mel name change
+/people/nina    /people/mel
+/people/nina.html    /people/mel
+
+# Director - Vale name change
+/people/director.html    /people/vale
+/people/director    /people/vale
+/media/avatars/director.png    /media/avatars/vale.png
+/media/avatars/director-alt.png    /media/avatars/vale-alt.png
