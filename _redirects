@@ -13,3 +13,11 @@
 /people/director    /people/vale
 /media/avatars/director.png    /media/avatars/vale.png
 /media/avatars/director-alt.png    /media/avatars/vale-alt.png
+
+# Miriam - Natt for the sake of not default gendering
+/people/miriam.html    /people/natt
+/people/natt    /people/natt
+/media/avatars/miriam.png    /media/avatars/natt-fem.png
+/media/avatars/miriam-alt.png    /media/avatars/natt-fem-alt.png
+/media/avatars/mikhael.png    /media/avatars/natt-masc.png
+/media/avatars/mikhael-alt.png    /media/avatars/natt-masc-alt.png
