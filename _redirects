@@ -1,3 +1,5 @@
+/people.html    /people/
+
 # Blog post redirects
 /posts/:date    /blog/:date
 /blog/role-labels    /blog/2025-04-10
