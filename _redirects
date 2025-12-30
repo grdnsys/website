@@ -6,6 +6,16 @@
 /blog/seeing-headmates    /blog/2025-01-27
 /blog/xenoblade    /blog/2025-12-18
 
+# Vi - Kit name change
+/people/vi    /people/kit
+/people/vi.html    /people/kit
+/people/pi    /people/kit
+/people/pi.html    /people/kit
+/media/avatars/vi.png    /media/avatars/kit.png
+/media/avatars/vi-alt.png    /media/avatars/kit-alt.png
+/media/banners/vi.png    /media/banners/kit.png
+
+
 # Nina - Mel name change
 /people/nina    /people/mel
 /people/nina.html    /people/mel
