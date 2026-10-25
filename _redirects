@@ -15,10 +15,6 @@
 /people/kit.html    /people/vi
 /people/pi    /people/vi
 /people/pi.html    /people/vi
-/media/avatars/kit.png    /media/avatars/vi.png
-/media/avatars/kit-small.png    /media/avatars/vi-small.png
-/media/avatars/kit-alt.png    /media/avatars/vi-alt.png
-/media/banners/kit.png    /media/banners/vi.png
 
 
 # Nina - Mel name change
@@ -28,21 +24,13 @@
 # Director - Vale name change
 /people/director.html    /people/vale
 /people/director    /people/vale
-/media/avatars/director.png    /media/avatars/vale.png
-/media/avatars/director-alt.png    /media/avatars/vale-alt.png
 
 # Miriam - Natt for the sake of not default gendering
 /people/miriam.html    /people/natt
 /people/miriam    /people/natt
 /people/mikhael.html    /people/natt
 /people/mikhael    /people/natt
-/media/avatars/miriam.png    /media/avatars/natt-fem.png
-/media/avatars/miriam-alt.png    /media/avatars/natt-fem-alt.png
-/media/avatars/mikhael.png    /media/avatars/natt-masc.png
-/media/avatars/mikhael-alt.png    /media/avatars/natt-masc-alt.png
 
 # Vanessa - Vanea name change
 /people/vanessa.html    /people/vanea
 /people/vanessa    /people/vanea
-/media/avatars/vanessa.png    /media/avatars/vanea.png
-/media/avatars/vanessa-alt.png    /media/avatars/vanea-alt.png
