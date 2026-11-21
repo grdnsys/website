@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>🌿 Garden</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.pumpkin.min.css">
+</head>
+<body class="container"> 
+<header>
+<nav>
+<ul>
+  <li>🌿 /grdnsys{{ current_path }} 🌿</li>
+</ul>
+<ul>
+    <li><a href="/">&#62;Home&#60;</a></li>
+    <li><a href="/contact/">&#62;Contact&#60;</a></li>
+    <li><a href="/people/">&#62;Headmates&#60;</a></li>
+    <li><a href="/blog/">&#62;Blog&#60;</a></li>
+</ul>
+</nav>
+<hr>
+</header>
+  <section class="section">
+    <div class="container">
+      {% block content %} {% endblock content %}
+    </div>
+  </section>
+</body>
+
+</html>

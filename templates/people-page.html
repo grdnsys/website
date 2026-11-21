@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="grid">
+  <div><img src="/media/avatars/{{ page.slug }}.webp" alt="Drawing of {{ page.extra.shortname }}" width="200"></div>
+  <div><ul>
+      <li><u>Pronouns:</u> {{ page.extra.pronouns }}</li>
+      <li><u>Age:</u> {{ page.extra.age }}</li>
+      <li><u>Gender:</u> {{ page.extra.gender }}</li>
+      <li><u>Sexuality:</u> {{ page.extra.sexuality }}</li>
+      <li><u>Species:</u> {{ page.extra.species }}</li>
+      <li><u>Role:</u> {{ page.extra.role }}</li>
+    </ul></div>
+</div>
+<hr>
+<h1 class="title">
+  {{ page.title }}
+</h1>
+<h2>Bio:</h2>
+{{ page.content | safe }}
+{% if page.extra.fedi is not none %}
+<a href="https://{{ page.extra.fediinstance }}/blog/{{ page.extra.fediinstance }}/"{{ page.extra.fedi }}{{ page.extra.fediinstance }}</a>
+{% endif %}
+{% endblock content %}
